@@ -1,0 +1,65 @@
+@media only screen and (max-width:1112px)
+{ 
+    .three
+    {  width:700px;
+        
+    }
+
+.section3{ 
+    width:600px;
+}
+#container2{ 
+    width: 300px;
+}
+.section7{ 
+    padding: 0 100px;
+}
+.japan{ 
+    width:600px;
+}
+.combined{ 
+    width: 600px;
+}
+.one{ 
+    width:150px;
+    transform: skew(-30deg);
+}
+#threec{
+    left:140px;
+}
+.four{
+    margin-left: 80px;
+    font-size: 12px;
+    margin-top: 100px;
+}
+.secondheading,.thirdheading.four{
+    font-size: 12px;
+}
+#paper1,#paper2
+{ left:350px;
+}
+
+#threeb {
+   
+    width:60px;
+    height: 40px;
+    background:rgb(221, 216, 216);
+    position: relative;
+    top:40px;
+    left: 5px;
+
+    transform: rotate(22deg);
+  }
+  .section13{
+      width: 500px;
+  }
+ .section8  {
+     padding: 0 0px; 
+}
+.section32
+{ width: 600px;
+}
+#flist .list{
+    font-size: 11px;
+}
+}
